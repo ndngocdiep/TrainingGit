@@ -1,0 +1,2 @@
+# TrainingGit
+Tìm hiểu git
